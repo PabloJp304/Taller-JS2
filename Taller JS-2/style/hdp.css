@@ -1,0 +1,13 @@
+.col{
+    background-color: blue;
+    color: white;
+}
+.col.negro{
+    background-color: black;
+}
+.col2{
+    background: blue;  
+}
+.col2.rojo{
+    color: red;
+}
